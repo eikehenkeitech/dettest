@@ -9,9 +9,6 @@
             "email": "no-email@given.com"
         }
     ],
-    "require": [],
-    "suggest": [],
-    "conflict": [],
     "extra": {
         "typo3/cms": {
             "extension-key": "detaktawebsite"
