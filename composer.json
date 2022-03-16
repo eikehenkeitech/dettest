@@ -17,7 +17,7 @@
             "extension-key": "detaktawebsite"
         }
     },
-    "version": "dev-main",
+
     "autoload": {
         "classmap": [
             "*"
